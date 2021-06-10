@@ -3,6 +3,7 @@ application:
   name: "proyect-mapa-de-karnought"
   project: "karnaought-umg"
   organization: "QoveryCommunity"
+  port: 3000
 routers:
 - name: "main-proyect-mapa-de-karnought"
   routes:
